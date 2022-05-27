@@ -9,6 +9,8 @@
 <body>
 <h1>First time using git...</h1>
 
+<h2>Hi, I am doing small change</h2>
+<p>Text in p tag </p>
 </body>
 
 
